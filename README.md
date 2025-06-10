@@ -1,5 +1,5 @@
 # MassiveStarGrid
-A (to be public) grid of RSG progenitor models calculated with MESA (revision 10398). 
+A grid of RSG progenitor models calculated with MESA (revision 10398). 
 
 There's 2 grids: 1 rotating 1 non-rotating, currently 3 types of files: at core-collapse, and at end core infall with the core excised already. Models range from typically ~11-25Msun in increments of 0.5 up to 15 and  1 up to 25, with a handful of 10Msun progenitors surviving this setup as well.
 
@@ -13,3 +13,5 @@ Goldberg & Bildsten 2020 (https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..45G/
 
 with additional work in Goldberg et al 2019 (https://ui.adsabs.harvard.edu/abs/2019ApJ...879....3G/abstract)
 and Paxton et al 2018 (https://ui.adsabs.harvard.edu/abs/2018ApJS..234...34P/abstract)
+
+Presented also in Fored & Goldberg 2025 (RNAAS: https://iopscience.iop.org/article/10.3847/2515-5172/adde46, arxiv:504.12421)
