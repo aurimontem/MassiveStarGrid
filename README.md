@@ -14,4 +14,4 @@ Goldberg & Bildsten 2020 (https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..45G/
 with additional work in Goldberg et al 2019 (https://ui.adsabs.harvard.edu/abs/2019ApJ...879....3G/abstract)
 and Paxton et al 2018 (https://ui.adsabs.harvard.edu/abs/2018ApJS..234...34P/abstract)
 
-Presented also in Fored & Goldberg 2025 (RNAAS: https://iopscience.iop.org/article/10.3847/2515-5172/adde46, arxiv:504.12421)
+Presented also in Forde & Goldberg 2025 (RNAAS: https://iopscience.iop.org/article/10.3847/2515-5172/adde46, arxiv:504.12421)
